@@ -257,3 +257,26 @@ Accuracy of the network: 96 %
 F1 score :  0.9570998234133167
 
 
+## VGG16 Entire 
+
+The model download link is https://drive.google.com/open?id=1_ieamuIhsDxSxXT2UxZB2SP_cDXRm41h
+
+
+Test Dataset
+
+Accuracy of the network: 96 %
+
+   True Positive  595    False Positive  20 
+   True Negative  859    False Negative  26
+F1 score :  0.9627831715210357
+Validation Dataset
+Accuracy of the network: 91 %
+   True Positive  543    False Positive  72 
+   True Negative  835    False Negative  50
+F1 score :  0.8990066225165563
+Training Dataset
+Accuracy of the network: 97 %
+   True Positive  4728    False Positive  191 
+   True Negative  7024    False Negative  57
+F1 score :  0.9744435284418796
+
