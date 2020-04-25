@@ -84,7 +84,7 @@ F1 score : 0.8754
 The trained model can be downloaded from the link https://drive.google.com/open?id=1nSSnk1mMBG4UXbmIMyFOdQ12MiLV3pqr,
 The confusion matrix and accuracy for Network is as followed,
 
-Test data
+#### Test data
 
 Accuracy of the network: 91 %
 
@@ -94,7 +94,7 @@ Accuracy of the network: 91 %
 
 F1 score :  0.8854961832061069
 
-Validation data
+#### Validation data
 
 Accuracy of the network: 83 %
 
@@ -104,7 +104,7 @@ Accuracy of the network: 83 %
 
 F1 score :  0.7901444350042481
 
-Training Data
+#### Training Data
 
 Accuracy of the network: 86 %
 
@@ -118,7 +118,7 @@ F1 score :  0.823579304495335
 The task is trained using trainable last convolution layer and fully connected layers.
 The link to model is https://drive.google.com/open?id=1-DI0iQS6bselNcS5d-SnRTvQxeCt3cnQ
 The confusion matrix for the model is 
-Test Dataset
+#### Test Dataset
 
 Accuracy of the network: 95 %
 
@@ -128,7 +128,7 @@ Accuracy of the network: 95 %
 
 F1 score :  0.9493464052287581
 
-Validation dataset
+#### Validation dataset
 
 Accuracy of the network: 90 %
 
@@ -139,7 +139,7 @@ Accuracy of the network: 90 %
 F1 score :  0.8835341365461847
 
 
-Training Dataset
+#### Training Dataset
 
 Accuracy of the network: 97 %
 
@@ -158,7 +158,7 @@ The ResNet network last convolutional layer and the FC layer trained. The networ
 Link https://drive.google.com/open?id=1XtU1p5GMyeXfVUgpBWISHAVveqdsN1QA
 The confusion matrix is as followed,
 
-Test Dataset
+#### Test Dataset
 
 Accuracy of the network: 92 %
 
@@ -171,7 +171,7 @@ F1 score :  0.9117876658860266
 
 
 
-Valdation Dataset
+#### Valdation Dataset
 
 Accuracy of the network: 86 %
 
@@ -189,7 +189,7 @@ F1 score :  0.8787207398131202
 ## VGG16 Multiple Conv + FC layer
 The Link Model https://drive.google.com/open?id=1-5zlNvgee9SfaCMngXVYzbgUBUl_-nmW
 
-Testing dataset
+#### Testing dataset
 
 Accuracy of the network: 97 %
 
@@ -199,7 +199,7 @@ Accuracy of the network: 97 %
 
 F1 score :  0.9633251833740831
 
-Validation Dataset
+#### Validation Dataset
 
 Accuracy of the network: 90 %
 
@@ -209,7 +209,7 @@ Accuracy of the network: 90 %
 
 F1 score :  0.8890688259109312
 
-Training Dataset
+#### Training Dataset
 
 Accuracy of the network: 95 %
 
@@ -221,7 +221,7 @@ F1 score :  0.9406448962826043
 ## Resnet18 with multiple convolution layer and FC layers
 The Link to model https://drive.google.com/open?id=1IBxQKA0PEw1OvOh75LiuyOU1bTxJkUh6
 
-Testing dataset
+#### Testing dataset
 
 Accuracy of the network: 97 %
 
@@ -232,7 +232,7 @@ Accuracy of the network: 97 %
 F1 score :  0.9640522875816994
 
 
-Validation Dataset
+#### Validation Dataset
 
 Accuracy of the network: 91 %
 
@@ -246,7 +246,7 @@ F1 score :  0.8963265306122449
 
 
 
-Training Dataset
+#### Training Dataset
 
 Accuracy of the network: 96 %
 
@@ -262,21 +262,67 @@ F1 score :  0.9570998234133167
 The model download link is https://drive.google.com/open?id=1_ieamuIhsDxSxXT2UxZB2SP_cDXRm41h
 
 
-Test Dataset
+#### Test Dataset
 
 Accuracy of the network: 96 %
 
    True Positive  595    False Positive  20 
+
    True Negative  859    False Negative  26
+
 F1 score :  0.9627831715210357
-Validation Dataset
+
+#### Validation Dataset
+
 Accuracy of the network: 91 %
+
    True Positive  543    False Positive  72 
+
    True Negative  835    False Negative  50
+
 F1 score :  0.8990066225165563
-Training Dataset
+
+#### Training Dataset
+
 Accuracy of the network: 97 %
+
    True Positive  4728    False Positive  191 
+
    True Negative  7024    False Negative  57
+
 F1 score :  0.9744435284418796
 
+## ResNet Entire
+
+The doanload link is https://drive.google.com/open?id=1Zrxn4SVdPNB94CH95FzaNhslafya5pIF
+
+
+#### Test Dataset
+
+Accuracy of the network: 95 %
+
+   True Positive  548    False Positive  67 
+
+   True Negative  883    False Negative  2
+
+F1 score :  0.940878201634877
+
+#### Validation Dataset
+
+Accuracy of the network: 89 %
+
+   True Positive  476    False Positive  139 
+
+   True Negative  869    False Negative  16
+
+F1 score :  0.8601200000
+
+#### Training Dataset
+
+Accuracy of the network: 94 %
+
+   True Positive  4301    False Positive  618 
+
+   True Negative  6984    False Negative  97
+
+F1 score :  0.9235987777
