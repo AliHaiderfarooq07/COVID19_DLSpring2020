@@ -154,7 +154,7 @@ F1 score :  0.9640816326530612
 
 
 ## Resnet Last convolution ( Single) + FC layer
-The ResNet network last convolutional layer and the FC layer trained. The network is trained using Adam optimizer with a batch size of 128 for Epochs. The network shows superior results in comparison to the previous model. The loss and accuracy plots for the models are as followed,
+The ResNet network last convolutional layer and the FC layer trained. The network is trained using Adam optimizer with a batch size of 128 for Epochs. The network shows superior results in comparison to the previous model. 
 Link https://drive.google.com/open?id=1XtU1p5GMyeXfVUgpBWISHAVveqdsN1QA
 The confusion matrix is as followed,
 
@@ -193,9 +193,9 @@ The Link Model https://drive.google.com/open?id=1-5zlNvgee9SfaCMngXVYzbgUBUl_-nm
 
 Accuracy of the network: 97 %
 
-   True Positive  591    False Positive  24 
+   True Positive  591  &nbsp;&nbsp;&nbsp;   False Positive  24 
 
-   True Negative  864    False Negative  21
+   True Negative  864  &nbsp;&nbsp;&nbsp;   False Negative  21
 
 F1 score :  0.9633251833740831
 
@@ -203,9 +203,9 @@ F1 score :  0.9633251833740831
 
 Accuracy of the network: 90 %
 
-   True Positive  549    False Positive  66 
+   True Positive  549  &nbsp;&nbsp;&nbsp;   False Positive  66 
 
-   True Negative  814    False Negative  71
+   True Negative  814   &nbsp;&nbsp;&nbsp;  False Negative  71
 
 F1 score :  0.8890688259109312
 
@@ -213,9 +213,9 @@ F1 score :  0.8890688259109312
 
 Accuracy of the network: 95 %
 
-   True Positive  4580    False Positive  339 
+   True Positive  4580  &nbsp;&nbsp;&nbsp;   False Positive  339 
 
-   True Negative  6842    False Negative  239
+   True Negative  6842 &nbsp;&nbsp;&nbsp;    False Negative  239
 
 F1 score :  0.9406448962826043
 ## Resnet18 with multiple convolution layer and FC layers
@@ -225,9 +225,9 @@ The Link to model https://drive.google.com/open?id=1IBxQKA0PEw1OvOh75LiuyOU1bTxJ
 
 Accuracy of the network: 97 %
 
-   True Positive  590    False Positive  25 
+   True Positive  590  &nbsp;&nbsp;&nbsp;   False Positive  25 
 
-   True Negative  866    False Negative  19
+   True Negative  866  &nbsp;&nbsp;&nbsp;   False Negative  19
 
 F1 score :  0.9640522875816994
 
@@ -236,9 +236,9 @@ F1 score :  0.9640522875816994
 
 Accuracy of the network: 91 %
 
-   True Positive  549    False Positive  66 
+   True Positive  549  &nbsp;&nbsp;&nbsp;   False Positive  66 
 
-   True Negative  824    False Negative  61
+   True Negative  824 &nbsp;&nbsp;&nbsp;    False Negative  61
 
 F1 score :  0.8963265306122449
 
@@ -250,9 +250,9 @@ F1 score :  0.8963265306122449
 
 Accuracy of the network: 96 %
 
-   True Positive  4607    False Positive  312 
+   True Positive  4607 &nbsp;&nbsp;&nbsp;    False Positive  312 
 
-   True Negative  6980    False Negative  101
+   True Negative  6980  &nbsp;&nbsp;&nbsp;   False Negative  101
 
 F1 score :  0.9570998234133167
 
@@ -266,9 +266,9 @@ The model download link is https://drive.google.com/open?id=1_ieamuIhsDxSxXT2UxZ
 
 Accuracy of the network: 96 %
 
-   True Positive  595    False Positive  20 
+   True Positive  595  &nbsp;&nbsp;&nbsp;   False Positive  20 
 
-   True Negative  859    False Negative  26
+   True Negative  859 &nbsp;&nbsp;&nbsp;    False Negative  26
 
 F1 score :  0.9627831715210357
 
@@ -276,9 +276,9 @@ F1 score :  0.9627831715210357
 
 Accuracy of the network: 91 %
 
-   True Positive  543    False Positive  72 
+   True Positive  543  &nbsp;&nbsp;&nbsp;   False Positive  72 
 
-   True Negative  835    False Negative  50
+   True Negative  835  &nbsp;&nbsp;&nbsp;   False Negative  50
 
 F1 score :  0.8990066225165563
 
@@ -286,9 +286,9 @@ F1 score :  0.8990066225165563
 
 Accuracy of the network: 97 %
 
-   True Positive  4728    False Positive  191 
-
-   True Negative  7024    False Negative  57
+   True Positive  4728 &nbsp;&nbsp;&nbsp;     False Positive  191 
+ 
+   True Negative  7024  &nbsp;&nbsp;&nbsp;   False Negative  57
 
 F1 score :  0.9744435284418796
 
@@ -301,9 +301,9 @@ The doanload link is https://drive.google.com/open?id=1Zrxn4SVdPNB94CH95FzaNhsla
 
 Accuracy of the network: 95 %
 
-   True Positive  548    False Positive  67 
-
-   True Negative  883    False Negative  2
+   True Positive  548  &nbsp;&nbsp;&nbsp;   False Positive  67 
+ 
+   True Negative  883 &nbsp;&nbsp;&nbsp;    False Negative  2
 
 F1 score :  0.940878201634877
 
@@ -311,9 +311,9 @@ F1 score :  0.940878201634877
 
 Accuracy of the network: 89 %
 
-   True Positive  476    False Positive  139 
+   True Positive  476   &nbsp;&nbsp;&nbsp;  False Positive  139 
 
-   True Negative  869    False Negative  16
+   True Negative  869  &nbsp;&nbsp;&nbsp;   False Negative  16
 
 F1 score :  0.8601200000
 
@@ -321,8 +321,8 @@ F1 score :  0.8601200000
 
 Accuracy of the network: 94 %
 
-   True Positive  4301    False Positive  618 
+   True Positive  4301  &nbsp;&nbsp;&nbsp;   False Positive  618 
 
-   True Negative  6984    False Negative  97
+   True Negative  6984  &nbsp;&nbsp;&nbsp;   False Negative  97
 
 F1 score :  0.9235987777
