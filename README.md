@@ -186,3 +186,74 @@ Accuracy of the network: 89 %
    True Negative  6180  &nbsp;&nbsp;&nbsp;  False Negative  901
 F1 score :  0.8787207398131202
 
+## VGG16 Multiple Conv + FC layer
+The Link Model https://drive.google.com/open?id=1-5zlNvgee9SfaCMngXVYzbgUBUl_-nmW
+
+Testing dataset
+
+Accuracy of the network: 97 %
+
+   True Positive  591    False Positive  24 
+
+   True Negative  864    False Negative  21
+
+F1 score :  0.9633251833740831
+
+Validation Dataset
+
+Accuracy of the network: 90 %
+
+   True Positive  549    False Positive  66 
+
+   True Negative  814    False Negative  71
+
+F1 score :  0.8890688259109312
+
+Training Dataset
+
+Accuracy of the network: 95 %
+
+   True Positive  4580    False Positive  339 
+
+   True Negative  6842    False Negative  239
+
+F1 score :  0.9406448962826043
+## Resnet18 with multiple convolution layer and FC layers
+The Link to model https://drive.google.com/open?id=1IBxQKA0PEw1OvOh75LiuyOU1bTxJkUh6
+
+Testing dataset
+
+Accuracy of the network: 97 %
+
+   True Positive  590    False Positive  25 
+
+   True Negative  866    False Negative  19
+
+F1 score :  0.9640522875816994
+
+
+Validation Dataset
+
+Accuracy of the network: 91 %
+
+   True Positive  549    False Positive  66 
+
+   True Negative  824    False Negative  61
+
+F1 score :  0.8963265306122449
+
+
+
+
+
+Training Dataset
+
+Accuracy of the network: 96 %
+
+   True Positive  4607    False Positive  312 
+
+   True Negative  6980    False Negative  101
+
+F1 score :  0.9570998234133167
+
+
