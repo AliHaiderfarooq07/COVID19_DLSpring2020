@@ -351,3 +351,23 @@ F1 score : 0.8570601851851852
 
 F1 score : 0.8509114583333334
 
+## VGG Binary Cross Entropy
+The weights are here
+### Confusion matrix for Validation set
+![image](https://user-images.githubusercontent.com/64313566/83589113-62bfa800-a56c-11ea-9dbc-9f13d733875a.png)
+
+F1 score : 0.7553373995400032
+### Confusion Matrix for Training Set
+![image](https://user-images.githubusercontent.com/64313566/83589217-9f8b9f00-a56c-11ea-8f4d-1a039b8096b4.png)
+
+F1 score : 0.8494061193014835
+## VGG Focal Loss
+The Weights can be downloaded here 
+### Confusion matrix for Validation set
+![image](https://user-images.githubusercontent.com/64313566/83589456-2e98b700-a56d-11ea-840f-b6d7c71b4328.png)
+
+F1 score : 0.7405642133415796
+### Confusion Matrix for Training Set
+![image](https://user-images.githubusercontent.com/64313566/83589576-80d9d800-a56d-11ea-9f8e-aaf82d81dea2.png)
+
+F1 score : 0.7937893013995542
