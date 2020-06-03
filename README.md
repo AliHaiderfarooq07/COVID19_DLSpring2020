@@ -343,3 +343,11 @@ F1 score is F1 score 0.4745731387180933
 ## ResNET with Focal Loss
 The model are here
 ### Confusion matrix Validation Set
+![image](https://user-images.githubusercontent.com/64313566/83588167-3b67db80-a56a-11ea-8632-3666ea74b1f9.png)
+
+F1 score : 0.8570601851851852
+### Confusion Matrix for Training Set
+![image](https://user-images.githubusercontent.com/64313566/83588311-88e44880-a56a-11ea-9cfb-4a33fb76df06.png)
+
+F1 score : 0.8509114583333334
+
