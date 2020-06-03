@@ -331,6 +331,15 @@ F1 score :  0.9235987777
 ## Dataset Download Link
 The dataset can be downloaded from https://drive.google.com/file/d/1eytbwaLQBv12psV8I-aMkIli9N3bf8nO/view
 ## RESNET Binary Cross Entropy
-## The Models weights can be found here
+The Models weights can be found here
 ## Confusion Matrix for Validation is
 ![image](https://user-images.githubusercontent.com/64313566/83587295-2ee28380-a568-11ea-92e6-7f3efdd16a96.png)
+
+The F1 score is 0.5517939814814814
+### Training set Confusion Matrix
+![image](https://user-images.githubusercontent.com/64313566/83587505-b3350680-a568-11ea-817f-71ef08b075df.png)
+F1 score is F1 score 0.4745731387180933
+
+## ResNET with Focal Loss
+The model are here
+### Confusion matrix Validation Set
