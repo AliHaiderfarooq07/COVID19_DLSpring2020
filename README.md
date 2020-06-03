@@ -327,7 +327,7 @@ Accuracy of the network: 94 %
 
 F1 score :  0.9235987777
 
-## Focal Loss 
+## Assignment 5 PART 2 
 ## Dataset Download Link
 The dataset can be downloaded from https://drive.google.com/file/d/1eytbwaLQBv12psV8I-aMkIli9N3bf8nO/view
 ## RESNET Binary Cross Entropy
