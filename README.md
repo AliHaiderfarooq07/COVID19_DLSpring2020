@@ -1,4 +1,4 @@
-# MSEE19006_COVID19_DLSpring2020
+# COVID19_DLSpring2020
 This repository contains code and results for COVID-19 classification assignment by Deep Learning Spring 2020 course offered at Information Technology University, Lahore, Pakistan. This assignment is only for learning purposes and is not intended to be used for clinical purposes.
 
 ![Comparision](https://user-images.githubusercontent.com/64313566/80291414-c9c89080-8766-11ea-8727-6f5de222b6bc.PNG)
